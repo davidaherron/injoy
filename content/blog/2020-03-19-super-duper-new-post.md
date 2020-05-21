@@ -7,7 +7,7 @@ Trust that others will help you in your time of need.
 
 Continue to develop your sense of self.
 
-Realize the impact male role models have made in your life and how it has shaped your PAST behaviors - and release those that do not serve and love you, for they are not true!
+Understand the impact role models have made in your life and how it has shaped your PAST behaviors - and just release those that do not serve and love you!
 
 Explore the possibility in teaching others. LET GO of boundaries that are preventing you from doing so.
 
