@@ -1,4 +1,5 @@
 ---
+category: Thoughts
 title: Your Gifts
 date: 2020-05-26T14:37:34.418Z
 description: Gratitude
