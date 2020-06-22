@@ -1,4 +1,5 @@
 ---
+category: Thoughts
 title: Look the Good in Your Relationships
 date: 2020-05-25T15:03:29.062Z
 description: Empowerment
