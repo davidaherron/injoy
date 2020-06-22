@@ -1,4 +1,5 @@
 ---
+category: Thoughts
 title: Communicate with the Universe
 date: 2020-05-22T15:28:05.507Z
 description: Integrity
