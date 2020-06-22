@@ -1,4 +1,5 @@
 ---
+category: Thoughts
 title: My Potential has No Bounds
 date: 2020-05-19T16:14:14.041Z
 description: Empowerment
