@@ -1,4 +1,5 @@
 ---
+category: Thoughts
 title: Visualize your Intention
 date: 2020-05-21T14:29:11.249Z
 description: Encouragement
