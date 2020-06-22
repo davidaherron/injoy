@@ -1,4 +1,5 @@
 ---
+category: Thoughts
 title: I Unleash Myself to the World
 date: 2020-03-19T02:47:31.276Z
 description: Empowerment
