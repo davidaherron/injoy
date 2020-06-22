@@ -1,4 +1,5 @@
 ---
+category: Thoughts
 title: Surrender to the Universe
 date: 2020-06-01T15:01:32.040Z
 description: Letting Go
