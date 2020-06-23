@@ -2,7 +2,7 @@
 category: Thoughts
 title: My Potential has No Bounds
 date: 2020-05-19T16:14:14.041Z
-description: Empowerment
+description: Thoughts
 ---
 I exist in a pool of potential. I create anything I want from this. Its source is infinite. It is my sacred space.
 
