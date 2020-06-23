@@ -2,7 +2,7 @@
 category: Thoughts
 title: Create your own Pathways
 date: 2020-05-20T15:02:46.430Z
-description: Empowerment
+description: Thoughts
 ---
 You can control and reshape how you respond.
 
