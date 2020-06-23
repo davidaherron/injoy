@@ -2,7 +2,7 @@
 category: Thoughts
 title: Your Gifts
 date: 2020-05-26T14:37:34.418Z
-description: Gratitude
+description: Thoughts
 ---
 Recognize the gifts that you are blessed with.. they are unique to you! 
 
