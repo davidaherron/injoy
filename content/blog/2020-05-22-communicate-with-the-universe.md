@@ -2,7 +2,7 @@
 category: Thoughts
 title: Communicate with the Universe
 date: 2020-05-22T15:28:05.507Z
-description: Integrity
+description: Thoughts
 ---
 Let go of fear and hold your heart dear.
 
