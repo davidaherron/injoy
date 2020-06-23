@@ -2,7 +2,7 @@
 category: Thoughts
 title: Visualize your Intention
 date: 2020-05-21T14:29:11.249Z
-description: Encouragement
+description: Thoughts
 ---
 You must REALLY want something to make the changes you want for yourself.
 
