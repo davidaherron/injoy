@@ -2,7 +2,7 @@
 category: Thoughts
 title: 'Acknowledgement and Praise '
 date: 2020-05-23T23:17:04.940Z
-description: Encouragement
+description: Thoughts
 ---
 Take a moment to stop and give praise and acknowledgement to the people in your life. 
 
