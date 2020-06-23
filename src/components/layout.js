@@ -9,6 +9,7 @@ const Layout = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
+      <div>
       <h1
         style={{
           ...scale(1.5),
@@ -27,9 +28,43 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h1>
+      <Link
+          style={{
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: `inherit`,
+            margin: `0 50px 0 0`
+          }}
+          to={`/nutrition`}
+        >
+          Nutrition
+        </Link>
+        <Link
+          style={{
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: `inherit`,
+            margin: `0 50px 0 0`
+          }}
+          to={`/fitness`}
+        >
+          Fitness
+        </Link>
+        <Link
+          style={{
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: `inherit`,
+          }}
+          to={`/thoughts`}
+        >
+          Thoughts
+        </Link>
+      </div>
     )
   } else {
     header = (
+      <div>
       <h3
         style={{
           fontFamily: `Montserrat, sans-serif`,
@@ -47,6 +82,39 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h3>
+        <Link
+        style={{
+          boxShadow: `none`,
+          textDecoration: `none`,
+          color: `inherit`,
+          margin: `0 50px 0 0`
+        }}
+        to={`/nutrition`}
+      >
+        Nutrition
+      </Link>
+      <Link
+        style={{
+          boxShadow: `none`,
+          textDecoration: `none`,
+          color: `inherit`,
+          margin: `0 50px 0 0`
+        }}
+        to={`/fitness`}
+      >
+        Fitness
+      </Link>
+      <Link
+        style={{
+          boxShadow: `none`,
+          textDecoration: `none`,
+          color: `inherit`,
+        }}
+        to={`/thoughts`}
+      >
+        Thoughts
+      </Link>
+      </div>
     )
   }
   return (

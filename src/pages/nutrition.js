@@ -53,7 +53,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, filter: { frontmatter: { description: { eq: "" }}}) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, filter: { frontmatter: { description: { eq: "Nutrition" }}}) {
       edges {
         node {
           excerpt
